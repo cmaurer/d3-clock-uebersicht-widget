@@ -107,6 +107,12 @@ update: function(output, widget){
     }
 },
 style: "        \n\
+  left: 20px \n\
+  bottom: 20px \n\
+  width: 400px \n\
+  height: 400px \n\
+  float: left \n\
+  box-sizing: border-box \n\
   background: rgba(#fff, 0.2) \n\
   font: 10px sans-serif \n\
   margin: auto	\n\
